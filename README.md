@@ -7,11 +7,9 @@ The OTP Verification System is a Python-based application that generates and ver
 - **OTP Generation**: Generates a 6-digit OTP for verification.
 - **Email Notification**: Sends the OTP to the user's email address.
 - **OTP Verification**: Allows users to verify the OTP with limited attempts.
-- **User-Friendly GUI**: Built with Tkinter for an intuitive user experience.
 
 ## Requirements
 - Python 3.x
-- Tkinter (comes pre-installed with Python)
 - Access to an SMTP server (e.g., Gmail)
 
 ## Installation
